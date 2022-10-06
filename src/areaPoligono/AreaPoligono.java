@@ -5,6 +5,8 @@
  */
 package areaPoligono;
 
+import areaPoligono.interfaz.Poligono;
+
 /**
  *
  * @author joseloc12
